@@ -1,0 +1,81 @@
+
+:root {
+  --background-modifier: #3b3b41 !important;
+  --background-secondary: #101012 !important;
+  --spice-main: var(--background-secondary);
+  --spice-player: var(--background-secondary);
+  --spice-sidebar: #1c1a1e;
+}
+
+.encore-dark-theme {
+  
+}
+
+.main-yourLibraryX-navItems {
+  padding: 8px 10px;
+}
+
+.main-yourLibraryX-libraryRootlist.main-yourLibraryX-libraryIsCollapsed {
+  padding: 0 2.5px !important;
+}
+
+.main-yourLibraryX-entryPoints {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+  z-index: 9999;
+}
+
+.main-yourLibraryX-library {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+  z-index: 9999;
+}
+
+.Root__now-playing-bar {
+  border: 2px solid var(--background-modifier);
+  border-radius: 11px;
+  z-index: 9999;
+  background-color: var(--background-secondary);
+}
+
+.main-card-card {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+}
+
+.Button-sm-16-buttonTertiary-iconOnly-isUsingKeyboard-useBrowserDefaultFocusStyle {
+  margin-right: 10px;
+}
+
+.main-trackList-trackListRow.main-trackList-trackListRowGrid {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+  margin: 0px 0px 2px 0px;
+  background-color: var(--background-secondary);
+}
+
+#main > div.Root.encore-dark-theme > div.Root__top-container > div.Root__main-view > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.main-view-container__scroll-node.os-host-transition.os-host-scrollbar-horizontal-hidden.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > div > section > div.playlist-playlist-playlistContent > div.contentSpacing > div > div.main-rootlist-wrapper {
+  overflow: hidden scroll;
+}
+
+.os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
+
+.Box-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_16px-paddingBlockEnd_16px-minBlockSize_56px {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+}
+
+.main-contextMenu-menu {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+  background-color: var(--background-secondary);
+}
+
+.Root__main-view {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+}
+
+.Root__top-bar {
+  margin: 2px;
+}
