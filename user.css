@@ -7,16 +7,8 @@
   --spice-sidebar: #1c1a1e;
 }
 
-.encore-dark-theme {
-  
-}
-
 .main-yourLibraryX-navItems {
-  padding: 8px 10px;
-}
-
-.main-yourLibraryX-libraryRootlist.main-yourLibraryX-libraryIsCollapsed {
-  padding: 0 2.5px !important;
+  padding: 4px 10px;
 }
 
 .main-yourLibraryX-entryPoints {
@@ -32,7 +24,7 @@
 }
 
 .Root__now-playing-bar {
-  border: 2px solid var(--background-modifier);
+  outline: 2px solid var(--background-modifier);
   border-radius: 11px;
   z-index: 9999;
   background-color: var(--background-secondary);
@@ -48,14 +40,8 @@
 }
 
 .main-trackList-trackListRow.main-trackList-trackListRowGrid {
-  border: 2px solid var(--background-modifier);
   border-radius: 10px;
-  margin: 0px 0px 2px 0px;
-  background-color: var(--background-secondary);
-}
-
-#main > div.Root.encore-dark-theme > div.Root__top-container > div.Root__main-view > div.main-view-container > div.os-host.os-host-foreign.os-theme-spotify.os-host-resize-disabled.main-view-container__scroll-node.os-host-transition.os-host-scrollbar-horizontal-hidden.os-host-overflow.os-host-overflow-y > div.os-padding > div > div > div.main-view-container__scroll-node-child > main > div > section > div.playlist-playlist-playlistContent > div.contentSpacing > div > div.main-rootlist-wrapper {
-  overflow: hidden scroll;
+  will-change: background-color;
 }
 
 .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
@@ -63,6 +49,10 @@
 .Box-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_16px-paddingBlockEnd_16px-minBlockSize_56px {
   border: 2px solid var(--background-modifier);
   border-radius: 10px;
+}
+
+.BoxComponent-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_8px-paddingBlockEnd_8px-minBlockSize_56px-padding_8px {
+  padding: 6px;  
 }
 
 .main-contextMenu-menu {
@@ -78,4 +68,9 @@
 
 .Root__top-bar {
   margin: 2px;
+}
+
+.main-buddyFeed-container {
+  border: 2px var(--background-modifier) solid;
+  border-radius: 10px;
 }
