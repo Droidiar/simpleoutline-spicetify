@@ -8,7 +8,10 @@ and Spicetify v3.36.4
 Beautiful Lyrics is installed in these images!
 
 Default:
-![Default](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/default.webp)
-
+![Default](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/default.webp)
+![DefaultFullExpanded](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/defaultfullexpanded.webp)
+![DefaultFull](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/defaultfull.webp)
 Droid:
-![Droid](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/droid.webp)
+![Droid](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/droid.webp)
+![DroidFullExpanded](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/droidfullexpanded.webp)
+![DroidFull](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/droidfull.webp)
