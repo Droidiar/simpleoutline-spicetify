@@ -78,12 +78,13 @@
   margin-right: 10px;
 }
 
+/*dont know the purpose, afraid to get rid of :3*/
 .main-trackList-trackListRow.main-trackList-trackListRowGrid {
   border-radius: 10px;
   will-change: background-color;
 }
 
-/*dont know the purpose, afraid to get rid of :3*/
+/*dont know the purpose, also afraid to get rid of :3*/
 .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
 
 /*padding adjustments for playlists on left bar*/
