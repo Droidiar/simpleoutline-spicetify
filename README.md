@@ -1,4 +1,6 @@
 # Simple Outline
+🏳️‍⚧️🏳️‍🌈
+
 Adding borders to everthing. I think it looks nice. :3
 
 <br> Tested using Spotify for Windows (32 bit)
