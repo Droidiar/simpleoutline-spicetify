@@ -1,11 +1,4 @@
 
-:root {
-  --background-modifier: #3b3b41 !important;
-  --background-secondary: #101012 !important;
-  --spice-main: var(--background-secondary);
-  --spice-player: var(--background-secondary);
-  --spice-sidebar: #1c1a1e;
-}
 
 /* this shit is all just for centering the icons on tyhe bar on the left please lord help me*/
 .main-yourLibraryX-navItems {
@@ -27,48 +20,48 @@
 
 /*the bars on the left*/
 .main-yourLibraryX-entryPoints {
-  border: 2px solid var(--background-modifier);
+  border: 2px solid var(--spice-misc);
   border-radius: 10px;
   z-index: 9999;
 }
 
 /*the bottom bar*/
 .Root__now-playing-bar {
-  outline: 2px solid var(--background-modifier);
+  outline: 2px solid var(--spice-misc);
   border-radius: 11px;
   z-index: 9999;
-  background-color: var(--background-secondary);
+  background-color: var(--spice-main);
 }
 
 /*borders on all the cards*/
 .main-card-card {
-  border: 2px solid var(--background-modifier);
+  border: 2px solid var(--spice-misc);
   border-radius: 10px;
 }
 
 
 /*shortcuts that show up on the homepage for your most played or whatever.. borders for everything yay!!!*/
 .view-homeShortcutsGrid-shortcutLink {
-  border: 2px solid var(--background-modifier);
+  border: 2px solid var(--spice-misc);
   will-change: background-color;
 }
 
 /*context menus (this was hell to get!!)*/
 .main-contextMenu-menu {
-  border: 2px solid var(--background-modifier);
+  border: 2px solid var(--spice-misc);
   border-radius: 10px;
-  background-color: var(--background-secondary);
+  background-color: var(--spice-main);
 }
 
 /*main view*/
 .Root__main-view {
-  border: 2px solid var(--background-modifier);
+  border: 2px solid var(--spice-main);
   border-radius: 10px;
 }
 
 /* now playing */
 .main-buddyFeed-container {
-  border: 2px var(--background-modifier) solid;
+  border: 2px var(--spice-misc) solid;
   border-radius: 10px;
 }
 
