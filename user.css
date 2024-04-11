@@ -7,22 +7,32 @@
   --spice-sidebar: #1c1a1e;
 }
 
+/* this shit is all just for centering the icons on tyhe bar on the left please lord help me*/
 .main-yourLibraryX-navItems {
-  padding: 4px 10px;
+  padding: 8px 10px !important;
 }
 
+#spicetify-show-list {
+  padding: 8px 10px !important;
+  padding-bottom: 0px !important;
+}
+
+.main-yourLibraryX-header {
+  padding: 8px 14px;
+  padding-top: 0px;
+}
+/*end of centering*/
+
+/*adding borders to everything*/
+
+/*the bars on the left*/
 .main-yourLibraryX-entryPoints {
   border: 2px solid var(--background-modifier);
   border-radius: 10px;
   z-index: 9999;
 }
 
-.main-yourLibraryX-library {
-  border: 2px solid var(--background-modifier);
-  border-radius: 10px;
-  z-index: 9999;
-}
-
+/*the bottom bar*/
 .Root__now-playing-bar {
   outline: 2px solid var(--background-modifier);
   border-radius: 11px;
@@ -30,11 +40,40 @@
   background-color: var(--background-secondary);
 }
 
+/*borders on all the cards*/
 .main-card-card {
   border: 2px solid var(--background-modifier);
   border-radius: 10px;
 }
 
+
+/*shortcuts that show up on the homepage for your most played or whatever.. borders for everything yay!!!*/
+.view-homeShortcutsGrid-shortcutLink {
+  border: 2px solid var(--background-modifier);
+  will-change: background-color;
+}
+
+/*context menus (this was hell to get!!)*/
+.main-contextMenu-menu {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+  background-color: var(--background-secondary);
+}
+
+/*main view*/
+.Root__main-view {
+  border: 2px solid var(--background-modifier);
+  border-radius: 10px;
+}
+
+/* now playing */
+.main-buddyFeed-container {
+  border: 2px var(--background-modifier) solid;
+  border-radius: 10px;
+}
+
+
+/*margin adjustments for the now playing bar*/
 .Button-sm-16-buttonTertiary-iconOnly-isUsingKeyboard-useBrowserDefaultFocusStyle {
   margin-right: 10px;
 }
@@ -44,33 +83,15 @@
   will-change: background-color;
 }
 
+/*dont know the purpose, afraid to get rid of :3*/
 .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track > .os-scrollbar-handle { border-radius: 4px; width: 6px; background-color: var(--spice-button-disabled); } .os-theme-spotify.os-host-transition > .os-scrollbar-vertical > .os-scrollbar-track { width: 6px; }
 
-.Box-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_16px-paddingBlockEnd_16px-minBlockSize_56px {
-  border: 2px solid var(--background-modifier);
-  border-radius: 10px;
-}
-
+/*padding adjustments for playlists on left bar*/
 .BoxComponent-group-naked-listRow-isInteractive-hasLeadingOrMedia-paddingBlockStart_8px-paddingBlockEnd_8px-minBlockSize_56px-padding_8px {
   padding: 6px;  
 }
 
-.main-contextMenu-menu {
-  border: 2px solid var(--background-modifier);
-  border-radius: 10px;
-  background-color: var(--background-secondary);
-}
-
-.Root__main-view {
-  border: 2px solid var(--background-modifier);
-  border-radius: 10px;
-}
-
+/*makes the main view border work, theres an element blocking the border that this makes smaller*/
 .Root__top-bar {
   margin: 2px;
-}
-
-.main-buddyFeed-container {
-  border: 2px var(--background-modifier) solid;
-  border-radius: 10px;
 }
