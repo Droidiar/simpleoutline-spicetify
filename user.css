@@ -1,4 +1,12 @@
 
+:root {
+  --background-modifier: #3b3b41 !important;
+  --background-secondary: #101012 !important;
+  --spice-main: var(--background-secondary);
+  --spice-player: var(--background-secondary);
+  --spice-sidebar: #1c1a1e;
+}
+
 /* this shit is all just for centering the icons on tyhe bar on the left please lord help me*/
 .main-yourLibraryX-navItems {
   padding: 8px 10px !important;
