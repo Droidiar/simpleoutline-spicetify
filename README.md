@@ -4,6 +4,8 @@ Adding borders to everthing. I think it looks nice. :3
 1.2.17.834.g26ee1129 <br>
 and Spicetify v3.36.4
 
+Beautiful Lyrics is installed in these images!
+
 Default:
 ![Default](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/default.webp)
 
