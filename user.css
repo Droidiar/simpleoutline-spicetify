@@ -55,7 +55,7 @@
 
 /*main view*/
 .Root__main-view {
-  border: 2px solid var(--spice-main);
+  border: 2px solid var(--spice-misc);
   border-radius: 10px;
 }
 
