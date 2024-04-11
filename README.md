@@ -5,5 +5,7 @@ Adding borders to everthing. I think it looks nice. :3
 and Spicetify v2.32.1
 
 Default:
-![Preview 1](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/preview1.avif)
+![Default](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/default.webp)
 
+Droid:
+![Droid](https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/main/droid.webp)
