@@ -89,3 +89,8 @@
 .Root__top-bar {
   margin: 2px;
 }
+
+/*makes the connect bar appear nicely with the border on the bar*/
+.main-connectBar-connectBar {
+  border-radius: 0px 0px 10px 10px;
+}
