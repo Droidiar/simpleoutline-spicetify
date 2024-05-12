@@ -97,5 +97,6 @@
 
 /*play button centering*/
 .player-controls__buttons {
+  margin-bottom: 6px;
   margin-left: 5px;
 }
