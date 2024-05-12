@@ -94,3 +94,8 @@
 .main-connectBar-connectBar {
   border-radius: 0px 0px 10px 10px;
 }
+
+/*play button centering*/
+.player-controls__buttons {
+  margin-left: 5px;
+}
