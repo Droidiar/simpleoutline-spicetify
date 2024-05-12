@@ -3,9 +3,11 @@
 
 Adding borders to everthing. I think it looks nice. :3
 
-<br> Tested using Spotify for Windows (32 bit)
-1.2.17.834.g26ee1129 <br>
-and Spicetify v3.36.4
+Spotify for Windows (64 bit) <br>
+1.2.13.661.ga588f749 <br>
+Spicetify v2.36.11
+
+I'll update this for the newest UI once beautiful lyrics start working again!
 
 Beautiful Lyrics is installed in these images!
 
