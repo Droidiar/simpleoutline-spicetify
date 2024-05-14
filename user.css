@@ -107,12 +107,17 @@
 .Button-medium-medium-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle
 {
   border: 2px solid var(--spice-misc);
-  padding: 12px;
+  margin: 2px;
+}
+
+.search-searchCategory-contentArea {
+  overflow: visible;
 }
 
 /*search bar*/
 .Input-sc-1gbx9xe-0 {
   border: 2px solid var(--spice-misc);
+  margin-top: 2px;
 }
 
 /*notif & friends buttons, i think its weird that these buttons are small but its not my fucking issue tbh its spotify's issue to deal with their design inconsistancies <3, i tried to make it look even a little good but these two buttons on the same bar work differently so i dunno man, dont look at me im just styling*/
@@ -125,18 +130,8 @@ border: 2px solid var(--spice-misc);
 border: 2px solid var(--spice-misc);  
 }
 
-/*both nav buttons*/
-.Button-medium-medium-buttonTertiary-iconOnly-condensed-disabled-useBrowserDefaultFocusStyle {
-  border: 2px solid;
-  padding: 2px;
-}
-
-.Button-medium-medium-buttonTertiary-iconOnly-condensed-useBrowserDefaultFocusStyle {
-  border: 2px solid var(--spice-misc);
-}
-
-/*libarary bu tten*/
-.main-useDropTarget-folder {
+/*libarary and add to liked songs bu tten*/
+.main-useDropTarget-folder, .hhFdIYRyHsqlCHy7T_8A {
   border: unset;
 }
 
@@ -145,3 +140,4 @@ border: 2px solid var(--spice-misc);
   border: 2px solid var(--spice-misc);
   width: 95%;
 }
+
