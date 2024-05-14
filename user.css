@@ -120,7 +120,7 @@
   margin-top: 2px;
 }
 
-/*notif & friends buttons, i think its weird that these buttons are small but its not my fucking issue tbh its spotify's issue to deal with their design inconsistancies <3, i tried to make it look even a little good but these two buttons on the same bar work differently so i dunno man, dont look at me im just styling*/
+/*notif & friends buttons*/
 .Button-small-small-buttonTertiary-condensedAll-useBrowserDefaultFocusStyle {
 border: 2px solid var(--spice-misc);
 }
@@ -141,3 +141,40 @@ border: 2px solid var(--spice-misc);
   width: 95%;
 }
 
+/*fix colors*/
+.encore-dark-theme {
+    --background-elevated-base: var(--spice-card);
+}
+
+/*colors and transitions for buttons on top navbar <3*/
+.Button-small-small-buttonTertiary-condensedAll-useBrowserDefaultFocusStyle {
+  background-color: var(--spice-card);
+  transition: ease-in 500ms;
+}
+
+.Button-small-small-buttonTertiary-condensedAll-useBrowserDefaultFocusStyle:hover {
+  background-color: var(--spice-tab-active);
+  transition: ease-in 500ms;
+}
+
+.Button-medium-medium-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle {
+  transition: 500ms;
+}
+
+.Button-medium-medium-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle:hover {
+  transition: ease-in 500ms;
+  background-color: var(--spice-tab-active);
+}
+
+.main-userWidget-box {
+  transition: ease-in 500ms;
+}
+
+.main-userWidget-box:hover {
+  transition: ease-in 500ms;
+  background-color: var(--spice-tab-active);
+}
+
+.main-globalNav-searchInputContainer:hover .SFAoASy0S_LZJmYZ3Fh9 {
+  background-color: var(--spice-tab-active);
+}
