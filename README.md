@@ -7,7 +7,7 @@ Spotify for Windows (64 bit) <br>
 1.2.13.661.ga588f749 <br>
 Spicetify v2.36.11
 
-I'll update this for the newest UI once beautiful lyrics start working again!
+spotify fgorced itself to update so hey its here for new ui yay
 
 Beautiful Lyrics is installed in these images!
 
