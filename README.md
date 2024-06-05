@@ -8,6 +8,7 @@ Spotify for Windows (64 bit) <br>
 Spicetify v2.36.11
 
 spotify fgorced itself to update so hey its here for new ui yay
+updates to spotify's terrible ui might be slow cause i've switch to just play local music <3
 
 Beautiful Lyrics is installed in these images!
 
