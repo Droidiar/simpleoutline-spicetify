@@ -7,8 +7,8 @@ Spotify for Windows (64 bit) <br>
 1.2.13.661.ga588f749 <br>
 Spicetify v2.36.11
 
-spotify fgorced itself to update so hey its here for new ui yay
-updates to spotify's terrible ui might be slow cause i've switch to just play local music <3
+spotify fgorced itself to update so hey its here for new ui yay <br>
+updates to spotify's terrible ui might be slow cause i've switched to just playing local music <3, spotify has been so shit lately i would really recommend anyone with time and money to just download songs they like
 
 Beautiful Lyrics is installed in these images!
 
