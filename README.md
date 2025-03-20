@@ -1,9 +1,8 @@
+# Feel free to fix issues or fork, I no longer use spotify!
 # Simple Outline
 🏳️‍⚧️🏳️‍🌈
 
 Adding borders to everything. I think it looks nice. :3
-
-Feel free to fix issues or fork! I no longer use spotify.
 
 Beautiful Lyrics is installed in these images!
 
@@ -18,7 +17,7 @@ Unchanged Spotify colors.
 ![Natural - New UI](https://github.com/Droidiar/simpleoutline-spicetify/blob/main/images/new%20ui%20natural.png?raw=true)
 
 Droid:
-My signature colorset! Might add more to this someday.
+My signature colorset!
 ![Droid](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/droid.webp)
 ![Droid - New Ui](https://github.com/Droidiar/simpleoutline-spicetify/blob/main/images/new%20ui%20droid.png?raw=true)
 
