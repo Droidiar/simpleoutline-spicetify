@@ -1,6 +1,6 @@
 
 
-/* this shit is all just for centering the icons on tyhe bar on the left please lord help me*/
+/* this shit is all just for centering the icons on the bar on the left please lord help me*/
 .main-yourLibraryX-navItems {
   padding: 8px 10px !important;
 }
@@ -22,7 +22,25 @@
 .main-yourLibraryX-entryPoints {
   border: 2px solid var(--spice-misc);
   border-radius: 10px;
+  padding-top: 10px; /* To fix the create button being too close to the top border */
   z-index: 9999;
+}
+
+/*the bars on the right*/
+.Root__right-sidebar {
+  border: 2px solid var(--spice-misc);
+  border-radius: 10px;
+  z-index: 9999;
+  overflow: hidden; /* To fix border corners being overlapped */
+}
+
+/* Music video borders*/
+
+.bdT2hWuSLE4HMyJ1ziC8 .Box__BoxComponent-sc-y4nds-0 { /* I have no faith that this will stay working for very long */
+  border: 2px solid var(--spice-misc);
+  border-radius: 10px;
+  z-index: 9999;
+  margin: 5px;  /* To add space between music video borders */
 }
 
 /*the bottom bar*/
@@ -43,7 +61,16 @@
 /*shortcuts that show up on the homepage for your most played or whatever.. borders for everything yay!!!*/
 .view-homeShortcutsGrid-shortcutLink {
   border: 2px solid var(--spice-misc);
-  will-change: background-color;
+}
+
+.view-homeShortcutsGrid-shortcut .view-homeShortcutsGrid-image {
+    padding: 2px;
+}
+
+.view-homeShortcutsGrid-shortcut .view-homeShortcutsGrid-imageWrapper {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: none;
 }
 
 /*context menus (this was hell to get!!)*/
@@ -104,10 +131,9 @@
 /*new shitty ui uhhhh.. if any of these look bad blame spotify*/
 
 /* custom apps & home buttons */
-.Button-medium-medium-buttonTertiary-iconOnly-useBrowserDefaultFocusStyle
+.Button-buttonTertiary-medium-iconOnly-useBrowserDefaultFocusStyle
 {
   border: 2px solid var(--spice-misc);
-  margin: 2px;
 }
 
 .search-searchCategory-contentArea {
@@ -115,22 +141,21 @@
 }
 
 /*search bar*/
-.Input-sc-1gbx9xe-0 {
+.main-topBar-searchBar {
   border: 2px solid var(--spice-misc);
-  margin-top: 2px;
 }
 
 /*notif & friends buttons*/
-.Button-small-small-buttonTertiary-condensedAll-useBrowserDefaultFocusStyle {
+.Button-buttonTertiary-small-useBrowserDefaultFocusStyle-condensedAll {
 border: 2px solid var(--spice-misc);
 }
 
 /*profile button*/
-.Button-textBase-medium-medium-buttonTertiary-condensedAll-useBrowserDefaultFocusStyle {
+.Button-buttonTertiary-textBase-medium-useBrowserDefaultFocusStyle-condensedAll {
 border: 2px solid var(--spice-misc);  
 }
 
-/*libarary and add to liked songs bu tten*/
+/*library and add to liked songs button*/
 .main-useDropTarget-folder, .hhFdIYRyHsqlCHy7T_8A {
   border: unset;
 }
@@ -138,7 +163,7 @@ border: 2px solid var(--spice-misc);
 /*new cards. might break things, who knows really*/
 .main-card-cardContainer {
   border: 2px solid var(--spice-misc);
-  width: 95%;
+  margin: 5px; /* Add space between card borders */
 }
 
 /*fix colors*/
