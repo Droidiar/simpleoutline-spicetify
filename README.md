@@ -1,19 +1,19 @@
 # Simple Outline
 🏳️‍⚧️🏳️‍🌈
 
-Adding borders to everthing. I think it looks nice. :3
+Adding borders to everything. I think it looks nice. :3
 
 Spotify for Windows (64 bit) <br>
-1.2.13.661.ga588f749 <br>
-Spicetify v2.36.11
+1.2.59.514.g834e17d4 <br>
+Spicetify v2.39.5
 
-spotify fgorced itself to update so hey its here for new ui yay <br>
+spotify forced itself to update so hey its here for new ui yay <br>
 updates to spotify's terrible ui might be slow cause i've switched to just playing local music <3, spotify has been so shit lately i would really recommend anyone with time and money to just download songs they like
 
 Beautiful Lyrics is installed in these images!
 
 Default:
-Modifed spotify colors to be more pleasant on the eyes!.
+Modified spotify colors to be more pleasant on the eyes!.
 ![Default](https://github.com/Droidiar/simpleoutline-spicetify/raw/main/images/default.webp)
 ![Default - New UI](https://github.com/Droidiar/simpleoutline-spicetify/blob/main/images/new%20ui%20default.png?raw=true)
 

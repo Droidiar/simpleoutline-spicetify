@@ -1,7 +1,7 @@
 {
   "name": "Simple Outline",
-  "description": "Adding borders to everthing. I think it looks nice. :3",
-  "preview": "https://cdn.discordapp.com/attachments/846889355914117140/1147769196772601878/preview.webp",
+  "description": "Adding borders to everything. I think it looks nice. :3",
+  "preview": "https://raw.githubusercontent.com/Droidiar/simpleoutline-spicetify/refs/heads/main/images/new%20ui%20default.png",
   "readme": "README.md",
   "usercss": "user.css",
   "schemes": "color.ini",
