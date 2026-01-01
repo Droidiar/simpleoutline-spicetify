@@ -49,6 +49,7 @@
   border-radius: 11px;
   z-index: 9999;
   background-color: var(--spice-main);
+  margin: 0;
 }
 
 /*borders on all the cards*/
@@ -163,6 +164,7 @@ border: 2px solid var(--spice-misc);
 /*new cards. might break things, who knows really*/
 .main-card-cardContainer {
   border: 2px solid var(--spice-misc);
+  min-height: 243px;
   margin: 5px; /* Add space between card borders */
 }
 
